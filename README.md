@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gau12avs aka Gaurav 
+- 👋 Hi, I’m @gau12avs
 - 👀 I’m interested in Ai
 - 🌱 I’m currently learning Data Engineering 
 - 💞️ I’m looking to collaborate on learning 
